@@ -1,0 +1,35 @@
+commit 042af83b2fb10ba6d82f9315650b656961593f65
+Author: igor <igorsiratskiy@gmail.com>
+Date:   Wed Jan 4 14:52:51 2012 +0200
+
+    add directory for configs
+
+commit 9f762b0d745164fed4cdf70ac77d42442759093f
+Author: igor <igorsiratskiy@gmail.com>
+Date:   Wed Jan 4 14:45:04 2012 +0200
+
+    README
+
+commit eef8af474447ab26ef6c4504775f94db95c8efd4
+Author: igor <igorsiratskiy@gmail.com>
+Date:   Wed Jan 4 14:41:48 2012 +0200
+
+    fixed config
+
+commit 40dabaac5f8d15ccd5b014a6448ac29333b86e5d
+Author: igor <igorsiratskiy@gmail.com>
+Date:   Wed Jan 4 14:38:57 2012 +0200
+
+    fixed
+
+commit 9af37cb5d08e16cbb16acba47d24c2326844bd8d
+Author: igor <igorsiratskiy@gmail.com>
+Date:   Wed Jan 4 14:34:53 2012 +0200
+
+    USE Flags, mask
+
+commit 1fa34e680f96fd1103e6a7ee41da3b488c5aff9b
+Author: igor <igorsiratskiy@gmail.com>
+Date:   Wed Jan 4 14:21:24 2012 +0200
+
+    make.conf config my computer
